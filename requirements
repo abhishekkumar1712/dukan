@@ -1,0 +1,14 @@
+These extensions must be enabled for OpenCart to install properly on the web server.
+
+Web Server (Apache suggested)
+PHP 5.4+
+Database (MySQLi suggested)
+Required PHP libraries / modules
+
+Curl
+ZIP
+Zlib
+GD Library
+Mcrypt
+Mbstrings
+Xml
